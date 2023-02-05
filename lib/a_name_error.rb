@@ -1,3 +1,3 @@
-"hello world"
-
-hello_world
+variable="hello world"
+2.times do puts "hi" end
+  e
